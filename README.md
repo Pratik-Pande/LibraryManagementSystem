@@ -33,7 +33,7 @@ Beginner-friendly console interface with clear menu options
 cd ./LibraryManagementSystem\
 
 Compile the Java files \
-javac *.java\
+javac *.java
 
 Run the program:\
 java Main
